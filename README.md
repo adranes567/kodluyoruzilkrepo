@@ -1,6 +1,6 @@
 # Kodluyoruz ilk repo
 
-Bu repo Kodluyoruz Front-End eğitiminde oluşturduğumuz il repo.İçerisinde bir 
+Bu repo Kodluyoruz Front-End eğitiminde oluşturduğumuz ilk repo.İçerisinde bir 
 adet README dosyası,bir adet de index.html barındırıyor.
 
 ## Installation
